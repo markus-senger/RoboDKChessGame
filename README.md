@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/77236323/198099327-96417325-c229-404a-
   
 <br/>
 
-## Get Started
+## Getting Started
 Under [Releases](https://github.com/markus-senger/RoboDKChessGame/releases) you can download the current project state. The download consists of a .zip file containing the Unity chess application (UnityRoboDKChess.exe) on the one hand and the corresponding RoboDK file (AGameOfChess.rdk) on the other hand.
 
 To enable the connection between Unity-Chess and RoboDK-Chess, the "main" program of AGameOfChess.rdk must be started first. Afterwards the green button "Connect to RoboDK" can be pressed in UnityRoboDKChess.exe. After that a connection should be established and AGameOfChess.rdk executes the chess moves specified in UnityRoboDKChess.exe.
